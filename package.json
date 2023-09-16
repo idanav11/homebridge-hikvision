@@ -10,7 +10,7 @@
   "dependencies": {
     "axios-digest": "^0.1.1",
     "highland": "^2.13.5",
-    "homebridge-camera-ffmpeg": "v3.0.3",
+    "homebridge-camera-ffmpeg": "v3.1.4",
     "xml2js": "^0.4.23"
   },
   "devDependencies": {
